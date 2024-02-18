@@ -6,7 +6,6 @@ import java.util.List;
 public class FizzBuzz {
     public static void main(String[] args) {
         FizzBuzzLogic s = new FizzBuzzLogic();
-
         System.out.println(s.fizzBuzz(15));
     }
 }
