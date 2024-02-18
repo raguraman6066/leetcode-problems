@@ -1,3 +1,4 @@
+package exercises;
 
 //412 easy
 import java.util.ArrayList;

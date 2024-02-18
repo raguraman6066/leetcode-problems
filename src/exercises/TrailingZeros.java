@@ -1,3 +1,5 @@
+package exercises;
+
 //172 medium
 class TrailingZeros {
     public static void main(String[] args) {

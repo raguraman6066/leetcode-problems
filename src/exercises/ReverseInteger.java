@@ -1,3 +1,5 @@
+package exercises;
+
 //7 medium
 public class ReverseInteger {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package exercises;
+
 // 9 easy
 //end with 0 and negative num - not palindrome ..it should be reverse also same..0,1,2.. also palindrome
 public class Palindrome {

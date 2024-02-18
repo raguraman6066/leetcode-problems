@@ -1,3 +1,4 @@
+package exercises;
 
 //136 easy
 import java.util.HashSet;
